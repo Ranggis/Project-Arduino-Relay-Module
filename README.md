@@ -1,5 +1,5 @@
 ## 🌡️ DHT11 Temperature & Humidity Monitoring with LCD and Relay Control  
-> Draft README — by Ranggis ✨   
+> Draft README — by Kelompok 6 ✨   
 
 ---
 
